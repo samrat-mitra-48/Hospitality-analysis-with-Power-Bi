@@ -1,5 +1,5 @@
 # Hospitality-analysis-with-Power-Bi
-Create the metrics according to the metric list.
+Created  metrics according to the metric list.
 Create a dashboard according to the mock-up provided by stakeholders.
 Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
